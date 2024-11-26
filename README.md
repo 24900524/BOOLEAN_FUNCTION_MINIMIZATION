@@ -63,10 +63,12 @@ Developed by: DHARSHINI S N  RegisterNumber:*/ 24900524
 
 
 **RTL realization**
+
 ![image](https://github.com/user-attachments/assets/1c17f534-3b99-48cb-b3d5-fe47c7cc703a)
 
 
 **RTL**
+
 ![image](https://github.com/user-attachments/assets/f1ff9a4e-f2a2-4dd4-a374-abb4e45f784e)
 
 **Result:**
